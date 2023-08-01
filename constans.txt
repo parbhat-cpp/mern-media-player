@@ -1,0 +1,4 @@
+Home/LeftContainer bg color: #f48b00;
+Home/RightContainer bg color: #484c4c;
+Home/LeftContainer/ListItem color: #dedede;
+Home/LeftContainer/Search color: #ffa835;
